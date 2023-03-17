@@ -14,8 +14,9 @@ Note: If you are coding along with the video, we suggest you open the video in a
 
 
 #### Using this template, you will be able to practice the following:
-- storing information in a variable
-- random() 
+- Storing information in a variable.
+- Using built in variables in p5: mouseX and mouseY.
+- Using the random() function. 
 
 
 #### Get Started:
